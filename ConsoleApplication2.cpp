@@ -3,7 +3,6 @@
 #include <iostream>
 #include <vector>
 #include<tuple> // for tuple
-#include <numeric> // for accumulate
 
 using namespace std;
 
