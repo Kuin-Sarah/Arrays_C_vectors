@@ -49,7 +49,7 @@ public:
             }(nums, get<0>(best2), get<0>(best1));
         }
         else {
-            if (numsSize == 0) return -1;
+            if (numsSize == 0) return 0;
             else return nums[0];
         }
         
